@@ -1,0 +1,23 @@
+{
+  "name": "realamazon",
+  "version": "1.0.0",
+  "description": "for the real amazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbejar93/BamazonCLI.git"
+  },
+  "author": "carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbejar93/BamazonCLI/issues"
+  },
+  "homepage": "https://github.com/cbejar93/BamazonCLI#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
