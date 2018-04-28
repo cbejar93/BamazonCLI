@@ -54,8 +54,6 @@ connection.connect(function(err) {
       })
   }
 
-
-
   function checker(x, y, z){
       let change = y-x;
       console.log(change)
@@ -74,7 +72,7 @@ connection.connect(function(err) {
 
                     ], function(err, res){
                         if (err) throw err;
-                        console.log("You're oder has been placed!")
+                        console.log("Your oder has been placed!")
                     }
             )
             connection.end();
