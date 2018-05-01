@@ -6,7 +6,7 @@
 
 In this program users are able to choose between two tracks customer and managers.
 
-![ALT TEXT](assets/oneprompt.png) 
+![ALT TEXT](assets/oneprompt.png?raw=true "Title") 
 
 Customers are able to look at a table produced by the console.table npm and then select the item_id 
 of the item they would like to purchase. Users also get a prompt to ask how much they would like to order.
